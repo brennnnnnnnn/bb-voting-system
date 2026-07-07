@@ -1,0 +1,2 @@
+ID 12345 changed. name_changed: 1 ('rtrtrtr' vs 'Brennan Kuan Yew Joe'). kelas_changed: 1 ('321' vs '3TA3'). pass_changed: 1 ('231' vs '123').
+ID 12345 changed. name_changed: 1 ('Brennan Kuan Yew Joe' vs 'rtrtrtr'). kelas_changed: 1 ('3TA3' vs '321'). pass_changed: 1 ('123' vs '231').

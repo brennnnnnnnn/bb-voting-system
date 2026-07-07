@@ -1,0 +1,58 @@
+[2026-06-08 14:40:30] Page Loaded. Method: GET Params: Array
+(
+    [action] => edit
+    [id] => 56789
+)
+
+[2026-06-08 15:35:31] Page Loaded. Method: GET Params: Array
+(
+    [action] => add
+)
+
+[2026-06-08 15:43:35] Page Loaded. Method: GET Params: Array
+(
+    [action] => edit
+    [id] => 11111
+)
+
+[2026-06-08 15:43:44] Page Loaded. Method: GET Params: Array
+(
+    [action] => edit
+    [id] => 11111
+)
+
+[2026-06-08 17:27:52] Page Loaded. Method: GET Params: Array
+(
+    [action] => add
+)
+
+[2026-06-08 17:27:56] Page Loaded. Method: GET Params: Array
+(
+    [action] => add
+)
+
+[2026-06-08 17:27:59] Page Loaded. Method: POST Params: Array
+(
+    [action] => add
+    [old_id] => 
+    [id] => D3434
+    [nama] => Damn
+    [kelas] => 2ST
+    [password] => dsada
+)
+
+[2026-06-08 17:27:59] Processing POST. Action: add, ID: D3434
+[2026-06-08 17:27:59] Validation Error: Invalid ID format
+[2026-06-08 17:28:06] Page Loaded. Method: POST Params: Array
+(
+    [action] => add
+    [old_id] => 
+    [id] => 21345
+    [nama] => Damn
+    [kelas] => 2ST
+    [password] => 213
+)
+
+[2026-06-08 17:28:06] Processing POST. Action: add, ID: 21345
+[2026-06-08 17:28:06] SQL Add: INSERT INTO pengguna (id_Pengguna, nama_Pengguna, kelas_Pengguna, password_Pengguna) VALUES ('21345', 'Damn', '2ST', '213')
+[2026-06-08 17:28:06] Success Add

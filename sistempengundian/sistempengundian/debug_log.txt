@@ -1,0 +1,48 @@
+Timestamp: 2026-06-08 14:40:52
+User: 56789
+POST Data: Array
+(
+    [jawatan_J1] => C1
+    [jawatan_J2] => C2
+    [jawatan_J3] => dfa
+)
+
+Processing: Jawatan=J1, Calon=C1... SUCCESS (ID: 6a26b8541f7ec)
+Processing: Jawatan=J2, Calon=C2... SUCCESS (ID: 6a26b85420267)
+Processing: Jawatan=J3, Calon=dfa... SUCCESS (ID: 6a26b8542077e)
+Timestamp: 2026-06-08 17:43:52
+User: 67679
+POST Data: Array
+(
+    [jawatan_J1] => C1
+    [jawatan_J2] => C1
+    [jawatan_J3] => C1
+)
+
+Processing: Jawatan=J1, Calon=C1... SUCCESS (ID: 6a26e33821d0f)
+Processing: Jawatan=J2, Calon=C1... SUCCESS (ID: 6a26e33822153)
+Processing: Jawatan=J3, Calon=C1... SUCCESS (ID: 6a26e33822afd)
+Timestamp: 2026-06-09 11:26:16
+User: 34343
+POST Data: Array
+(
+    [jawatan_J1] => C1
+    [jawatan_J2] => C4
+    [jawatan_J3] => C5
+)
+
+Processing: Jawatan=J1, Calon=C1... SUCCESS (ID: 6a27dc38e309d)
+Processing: Jawatan=J2, Calon=C4... SUCCESS (ID: 6a27dc38e3614)
+Processing: Jawatan=J3, Calon=C5... SUCCESS (ID: 6a27dc38e3b07)
+Timestamp: 2026-06-09 12:27:26
+User: 45454
+POST Data: Array
+(
+    [jawatan_J1] => C4
+    [jawatan_J2] => C5
+    [jawatan_J3] => C1
+)
+
+Processing: Jawatan=J1, Calon=C4... SUCCESS (ID: 6a27ea8e9952f)
+Processing: Jawatan=J2, Calon=C5... SUCCESS (ID: 6a27ea8e9a116)
+Processing: Jawatan=J3, Calon=C1... SUCCESS (ID: 6a27ea8e9adcd)
